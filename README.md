@@ -1,5 +1,5 @@
-# IftarSahur_bot
-[@iftarSahur_bot](https://t.me/iftarsahur_bot)
+# iftar_sahur_vakit
+[@iftar_sahur_vakit_bot](http://t.me/iftar_sahur_vakit_bot)
 
 ## Heroku
 [Heroku Deploy](https://heroku.com/deploy?template=https://github.com/kursadHD/IftarSahur_bot)
@@ -15,4 +15,4 @@ python3 iftarsahur_bot.py
 ```
 
 ## İletişim
-Telegram: [@kursadHD](https://t.me/kursadHD)
+Telegram: [@sevapcoin](https://t.me/sevapcoin)
